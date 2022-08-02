@@ -1,16 +1,13 @@
-### Hi there 👋
+# OSS Contributions
 
-<!--
-**ryamaguchi0220/ryamaguchi0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+||Issue|PR|
+|---|-----|-----|
+|[Release-Drafter](https://github.com/release-drafter/release-drafter)|<ul><li>https://github.com/toolmantim/release-drafter/issues/323</li></ul>|<ul><li>https://github.com/toolmantim/release-drafter/pull/324</li></ul>|
+|[GitHub + Slack Integration](https://github.com/integrations/slack)|<ul></ul>|<ul><li>https://github.com/integrations/slack/pull/1046</li></ul>|
+|[おめシスのHP](https://github.com/omegasisters/homepage)||<ul><li>https://github.com/omegasisters/homepage/pull/324</li><li>https://github.com/omegasisters/homepage/pull/337</li><li>https://github.com/omegasisters/homepage/pull/350</li><li>https://github.com/omegasisters/homepage/pull/357</li><li>https://github.com/omegasisters/homepage/pull/367</li><li>https://github.com/omegasisters/homepage/pull/370</li><li>https://github.com/omegasisters/homepage/pull/373</li></ul>|
+|[Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|<ul><li>https://github.com/fomantic/Fomantic-UI/issues/757</li><li>https://github.com/fomantic/Fomantic-UI/issues/953</li></ul>|<ul><li>https://github.com/fomantic/Fomantic-UI/pull/1496</li><li>https://github.com/fomantic/Fomantic-UI/pull/759</li><li>https://github.com/fomantic/Fomantic-UI/pull/954</li><li>https://github.com/fomantic/Fomantic-UI-Docs/pull/134</li></ul>|
+|[Vis.js](https://github.com/visjs/vis-timeline)|<ul><li>https://github.com/visjs/vis-timeline/issues/84</li><li>https://github.com/visjs/vis-timeline/issues/95</li><li>https://github.com/visjs/vis-timeline/issues/105</li><li>https://github.com/visjs/vis-timeline/issues/127</li><li>https://github.com/visjs/vis-timeline/issues/131</li><li>https://github.com/visjs/vis-timeline/issues/187</li></ul>|<ul><li>https://github.com/visjs/vis-timeline/pull/86</li><li>https://github.com/visjs/vis-timeline/pull/96</li><li>https://github.com/visjs/vis-timeline/pull/117</li><li>https://github.com/visjs/vis-timeline/pull/128</li><li>https://github.com/visjs/vis-timeline/pull/132</li><li> https://github.com/visjs/vis-timeline/pull/148</li><li>https://github.com/visjs/vis-timeline/pull/188</li><li>https://github.com/visjs/vis-timeline/pull/486</li><ul>|
+|[Linaria](https://github.com/callstack/linaria)||<ul><li>https://github.com/callstack/linaria/pull/894</li></ul>|  
+|[twitter4s](https://github.com/DanielaSfregola/twitter4s)||<ul><li>https://github.com/DanielaSfregola/twitter4s/pull/206</li></ul>|
+|[circe](https://github.com/circe/circe)|<ul><li>https://github.com/circe/circe/issues/878</li></ul>|</ul>||  
+|[hub](https://github.com/github/hub)|<ul><li>https://github.com/github/hub/issues/2347</li></ul>||
